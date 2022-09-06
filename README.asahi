@@ -1,0 +1,5 @@
+# alsa-ucm-conf-asahi
+
+This tree contains so-called ALSA UCM configuration describing internal
+sound peripherals on Apple hardware. This is to overlay the parent
+alsa-ucm-conf package at /usr/share/alsa.
